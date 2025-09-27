@@ -10,3 +10,45 @@
   --slate-500: hsl(216, 15%, 48%);
   --slate-900: hsl(218, 44%, 22%);
 }
+
+body {
+  font-family: "Outfit", sans-serif;
+  background: var(--slate-300);
+  height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  background: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 320px;
+  padding: 15px;
+  border-radius: 15px;
+  text-align: center;
+  font-size: 15px;
+  box-shadow: 10px 10px 30px rgba(0,0,0,0.1);
+}
+
+img {
+  border-radius: 10px;
+}
+
+h2 {
+  font-weight: 700;
+  color: var(--slate-900);
+  margin: 20px 5px 0;
+}
+
+p {
+  font-weight: 400;
+  color: var(--slate-500);
+  margin: 15px 15px 25px;
+}
+
+footer {
+  text-align: center;
+  margin: 20px;
+}
