@@ -1,32 +1,40 @@
-# Mentor Frontend - QR code component solution
+# Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge in Fronte Mentor] (https://www.frontentmentor.io/challenges/qr-code-component-iux_sio_h). This challenge helped me improve my layout skills and styles with HTML and CSS.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sio_h).  
+This challenge helped me improve my layout skills and styling with HTML and CSS.
+
+---
 
 ## Table of Contents
 
-- [General Description] (#General Description)
-  - [Screen capture] (#Proofing)
-  - [Links] (#enlaces)
-- [My process] (#My-Process)
-  - [Built with] (#constructed with)
+- [Overview](#overview)  
+  - [Screenshot](#screenshot)  
+  - [Links](#links)  
+- [My process](#my-process)  
+  - [Built with](#built-with)  
 
+---
 
-## General description
+## Overview
 
-### screen capture
+### Screenshot
 
-! [] (./images/captshot.jpg)
+![My solution screenshot](./images/capshot.png)
+
+---
 
 ### Links
 
--Urs solution: [Add solution url here] (https://github.com/aaron-gf/qr-code-component-Main)
--Urs of the live site: [Add URL of the live site here] (https://aaron-gf.github.io/qr-code-component-Main/)
+- Solution URL: [GitHub Repo](https://github.com/aaron-gf/qr-code-component-Main)  
+- Live Site URL: [GitHub Pages](https://aaron-gf.github.io/qr-code-component-Main/)  
+
+---
 
 ## My process
 
 ### Built with
 
-- HTML5 semantic marking
-- Custom Properties of CSS
-- Flexbox
-- First mobile workflow
+- Semantic HTML5 markup  
+- CSS custom properties  
+- Flexbox  
+- Mobile-first workflow  
